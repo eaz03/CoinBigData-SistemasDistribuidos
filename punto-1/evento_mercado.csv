@@ -1,0 +1,11 @@
+id_evento,nombre_evento,categoria,mes_inicio,mes_fin,fuente_nombre,fuente_url
+1,Caída de la bolsa de 1987 (Lunes Negro),choque,1987-10-01,1987-10-01,Federal Reserve History - Stock Market Crash of 1987,https://www.federalreservehistory.org/essays/stock-market-crash-of-1987
+2,Recesión de EE. UU. 1990-91,recesion,1990-07-01,1991-03-01,NBER - Expansiones y contracciones del ciclo económico de EE. UU.,https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions
+3,Crisis financiera asiática,choque,1997-07-01,1998-12-01,Federal Reserve History - Asian Financial Crisis,https://www.federalreservehistory.org/essays/asian-financial-crisis
+4,Default de Rusia y casi quiebra de LTCM,choque,1998-08-01,1998-09-01,Federal Reserve History - Near Failure of LTCM | Banco Mundial WPS5312 (devaluación del rublo 17 ago 1998),https://www.federalreservehistory.org/essays/ltcm_near_failure | https://openknowledge.worldbank.org/bitstreams/06417085-7d0c-5505-b106-2be08e529965/download
+5,Recesión de EE. UU. 2001,recesion,2001-03-01,2001-11-01,NBER - Expansiones y contracciones del ciclo económico de EE. UU.,https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions
+6,Gran Recesión,recesion,2007-12-01,2009-06-01,NBER - Expansiones y contracciones del ciclo económico de EE. UU.,https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions
+7,Quiebra de Lehman Brothers,choque,2008-09-01,2008-09-01,Federal Reserve History - The Great Recession and Its Aftermath,https://www.federalreservehistory.org/essays/great-recession-and-its-aftermath
+8,La OMS declara pandemia el COVID-19,choque,2020-03-01,2020-03-01,OMS - Palabras de apertura del Director General 11 de marzo de 2020,https://www.who.int/news-room/speeches/item/who-director-general-s-opening-remarks-at-the-media-briefing-on-covid-19---11-march-2020
+9,Recesión por COVID-19,recesion,2020-02-01,2020-04-01,NBER - Expansiones y contracciones del ciclo económico de EE. UU.,https://www.nber.org/research/data/us-business-cycle-expansions-and-contractions
+10,Quiebras de bancos regionales de EE. UU. 2023 (SVB / Signature / First Republic),choque,2023-03-01,2023-05-01,Servicio de Investigación del Congreso (CRS) R47658,https://www.everycrsreport.com/reports/R47658.html

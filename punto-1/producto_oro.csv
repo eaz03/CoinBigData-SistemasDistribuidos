@@ -1,0 +1,6 @@
+id_producto,linea_producto,contenido_oro_oz,peso_bruto_g,diametro_mm,valor_nominal_usd,finura,quilates,anio_lanzamiento,fuente_url
+AGE_1,American Eagle Gold,1.0000,33.931,32.70,50,0.9167,22,1986,https://usmint.gov/?p=4845
+AGE_1_2,American Eagle Gold,0.5000,16.966,27.00,25,0.9167,22,1986,https://usmint.gov/?p=4845
+AGE_1_4,American Eagle Gold,0.2500,8.483,22.00,10,0.9167,22,1986,https://usmint.gov/?p=4845
+AGE_1_10,American Eagle Gold,0.1000,3.393,16.50,5,0.9167,22,1986,https://usmint.gov/?p=4845
+AGB_1,American Buffalo Gold,1.0000,31.108,32.70,50,0.9999,24,2006,https://usmint.gov/?p=4908
